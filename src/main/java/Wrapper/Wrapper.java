@@ -1,4 +1,4 @@
-package sujit;
+package Wrapper;
 
 
 
@@ -43,6 +43,17 @@ public class Wrapper {
         // Wrapper class Double
         Double dvar = 123.12313433434;
         System.out.println(dvar);
+
+        // Autoboxing :- Automatic Conversion from primitive type to the object of their corresponding
+        // wrapper classes is known as autoboxing
+        int c = 5;
+        Integer z = c; // autoboxing
+        System.out.println(z);
+
+        // Unboxing :- Automatically converting an object of wrapper class to its corresponding primitive type
+        Integer x = 25;
+        int new_int = x; //Unboxing
+        System.out.println(new_int);
 
 
     }
