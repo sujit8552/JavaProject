@@ -39,6 +39,7 @@ public class ExceptionHandling {
         }
         System.out.println("Good Job ;)");
     }
+    // divide method
     public static int divide(int a, int b){
         try {
             //Studnt s = null;
