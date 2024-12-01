@@ -12,7 +12,7 @@ class Node{
 public class ListLinkedList {
 
     /*
-    * Linked List is second type of List
+    * Linked List is second type of List 
     * Every element in linked list is known as a Node & Node contains Data and pointer/reference
     *  [1|ref]---->[2|ref]----->[3|ref]---> null (end of linkedlist)
     *   Node1 ----> Node2 -----> Node3
